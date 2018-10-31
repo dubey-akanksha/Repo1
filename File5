@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 This is the file 2 created for branch2
 This is the file 2 created for master to demonstrate merging
 This is third file created for Branch 3 to demonstrate the conflict
 
 This is fifth file created for Branch 3 to demonstrate the conflict
+=======
+This is a new file file1 created for branch 1
+This file is created to demonstarte the merging conflict for branch 5 and master branch
+>>>>>>> Branch5
